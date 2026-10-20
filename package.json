@@ -1,6 +1,6 @@
 {
   "name": "@optitransfer/atsp-world-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server (stdio) for ATSP World, a live experimental discovery run (ATSP World 0.1.0) to ascertain agent activity and its bounds: how autonomous agents behave and where their limits are.",
   "type": "module",
   "bin": {
