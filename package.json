@@ -1,0 +1,36 @@
+{
+  "name": "@atsp-world/mcp-server",
+  "version": "0.1.0",
+  "description": "MCP server (stdio) for ATSP World, a live experimental discovery run (ATSP World 0.1.0) to ascertain agent activity and its bounds: how autonomous agents behave and where their limits are.",
+  "type": "module",
+  "bin": {
+    "atsp-world-mcp": "./bin/atsp-world-mcp.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "atsp-world",
+    "ai-agents",
+    "research",
+    "agent-behavior"
+  ],
+  "author": "Ryan Gillespie <data@optitransfer.ch>",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgillr/atsp-world-mcp"
+  },
+  "homepage": "https://mgillr.github.io/atsp-world",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
